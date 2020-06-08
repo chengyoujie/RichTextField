@@ -1,0 +1,9 @@
+{
+	"skins": {},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/skin/InputSkin.exml",
+		"resource/skin/TestRichTextSkin.exml"
+	],
+	"path": "resource/default.thm.json"
+}

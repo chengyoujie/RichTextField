@@ -1,0 +1,32 @@
+{
+	"groups": [
+		{
+			"keys": "egret_icon_png,description_json,emoji_json,res_json",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "emoji_json",
+			"type": "sheet",
+			"url": "assets/emoji.json",
+			"subkeys": "eomji_01_png,eomji_02_png,eomji_03_png,eomji_04_png,eomji_05_png,eomji_06_png,eomji_07_png,eomji_08_png,eomji_09_png,eomji_10_png,eomji_11_png,eomji_12_png,eomji_13_png,eomji_14_png,eomji_15_png,eomji_16_png,eomji_17_png,eomji_18_png,eomji_19_png,eomji_20_png,eomji_21_png,eomji_22_png,eomji_23_png,eomji_24_png,eomji_25_png,eomji_26_png,eomji_27_png,eomji_28_png,eomji_29_png,eomji_30_png,eomji_31_png,eomji_32_png,eomji_33_png,eomji_34_png,eomji_35_png,eomji_36_png"
+		},
+		{
+			"name": "res_json",
+			"type": "sheet",
+			"url": "assets/res.json",
+			"subkeys": "bg1_png,inputbg_png"
+		}
+	]
+}
